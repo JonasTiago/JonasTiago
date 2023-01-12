@@ -8,7 +8,7 @@
 
 
 
-![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasTiago&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasTiago&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?user=JonasTiago&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=JonasTiago&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia
