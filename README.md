@@ -7,6 +7,11 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonas_pt_br/)
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonasTiago&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jonas Tiago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasTiago&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 ## Tecnologias que eu uso no meu dia
 <hr>
 <div style="display: inline_block">
@@ -18,4 +23,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-
+  <div align="center">
+<br><p align="centre"><b>Visitors</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jonasTiago}/count.svg" /></p> 
+<br></div>
