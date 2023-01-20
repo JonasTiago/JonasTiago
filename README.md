@@ -10,6 +10,7 @@
 
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?user=JonasTiago&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=JonasTiago&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github-readme-stats.vercel.app/api?username={jonastiago}&theme=blue-green
 
 ## Tecnologias que eu uso no meu dia
 <hr>
