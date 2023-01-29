@@ -17,7 +17,3 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-  <div align="center">
-<br><p align="centre"><b>Visitors</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jonasTiago}/count.svg" /></p> 
-<br></div>
