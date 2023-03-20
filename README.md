@@ -9,8 +9,6 @@
 No momento estou estudando análise e desenvolvimento de sistemas, mas sempre aberto a projetos e oportunidades.
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasTiago&show_icons=true&theme=radical)
-
 ## Tecnologias, frameworks e ferramentas
 <hr>
 
@@ -31,6 +29,9 @@ No momento estou estudando análise e desenvolvimento de sistemas, mas sempre ab
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   
+<hr>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasTiago&show_icons=true&theme=radical)
   
   
   
