@@ -9,6 +9,8 @@
 No momento estou estudando análise e desenvolvimento de sistemas, mas sempre aberto a projetos e oportunidades.
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasTiago&show_icons=true&theme=radical)
+
 ## Tecnologias, frameworks e ferramentas
 <hr>
 
