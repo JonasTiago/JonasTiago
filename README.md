@@ -5,7 +5,7 @@
 
 ### 👋 Oi, eu sou @JonasTiago
 <p>
-   Hoje vou ser seu desenvolvedor favorito, posso te ajudar com minhas habilidades em desenvolver sites e aplicações usando as melhores ferramentas  do mercado, com meu curso de Software Engineer tenho vários projetos desenvolvidos aqui mesmo na plataforma, pode da uma olhadinha mais a frente.
+   Hoje vou ser seu desenvolvedor, posso te ajudar com minhas habilidades em desenvolver sites e aplicações usando as melhores ferramentas  do mercado, com meu curso de Software Engineer tenho vários projetos desenvolvidos aqui mesmo na plataforma, pode da uma olhadinha mais a frente.
 No momento estou estudando análise e desenvolvimento de sistemas, mas sempre aberto a projetos e oportunidades.
 </p>
 
